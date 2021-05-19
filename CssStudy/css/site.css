@@ -1,0 +1,21 @@
+
+h1{
+    color: rgb(197, 70, 70);
+    /* border: 1px solid; */
+}
+
+#title{
+    color: black;            
+}
+
+.title{
+
+    color:chartreuse;
+}
+p{
+    color:yellow;
+}
+
+body{
+    background-color:brown ;
+}
